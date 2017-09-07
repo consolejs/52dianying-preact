@@ -1,6 +1,6 @@
 {
-  "name": "Preact PWA",
-  "short_name": "Preact PWA",
+  "name": "我爱电影",
+  "short_name": "52电影",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
