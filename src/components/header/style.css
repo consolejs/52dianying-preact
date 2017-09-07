@@ -21,7 +21,7 @@
 }
 
 .header nav {
-	float: right;
+	width: 100%;
 	font-size: 100%;
 }
 
@@ -30,19 +30,21 @@
 	height: 56px;
 	line-height: 56px;
 	padding: 0 15px;
+	width: 33.33%;
 	min-width: 50px;
 	text-align: center;
-	background: rgba(255,255,255,0);
+	background: #1e2830;
 	text-decoration: none;
-	color: #FFF;
+	color: #DDD;
 	will-change: background-color;
 }
 
 .header nav a:hover,
 .header nav a:active {
-	background: rgba(0,0,0,0.2);
+	background: #25333d;
 }
 
 .header nav a.active {
-	background: rgba(0,0,0,0.4);
+	background: #25333d;
+	color: #ed9179;
 }
